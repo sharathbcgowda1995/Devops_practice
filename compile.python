@@ -1,3 +1,0 @@
-class compile:
-    def added_code(self):
-      print('code added')
